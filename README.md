@@ -2,7 +2,7 @@
 #### Kaggle: Women's E-Commerce Clothing Reviews
 https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
-#### AWS ML Pipeline: 
+#### AWS ML Pipeline: Building a Sentiment Classifier from Product Reviews
 #### 1.Ingest, Register and Transform: 
 - Register - boto3
 - AWS Data Wrangler - Pandas
